@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: catalog-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Zarna Patel
+Implementation-Vendor-Id: com.dave
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/catalog-service
+Created-By: Maven Integration for Eclipse
+
